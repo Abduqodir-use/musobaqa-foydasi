@@ -4,10 +4,10 @@
         box-sizing: border-box;
         list-style: none;
         text-decoration: none;
-        
 }
+
 .container {
-        max-width: 1820px;
+        max-width: 1200px;
         margin: 0 auto;
         padding: 0 10px;
 }
