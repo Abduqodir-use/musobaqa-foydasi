@@ -1,0 +1,307 @@
+.Login {
+      width: 120px;
+      height: 44px;
+      background: transparent;
+      color: white;
+      border-color: white;
+      border-radius: 6px;
+      text-align: center;
+}
+
+
+.status,
+.Price,
+.Advanced {
+      border: 1px solid #0000005a;
+      padding: 3px 13px;
+      width: 150px;
+      height: 30px;
+      display: flex;
+      gap: 17px;
+      border-radius: 6px;
+}
+
+.nav_content .nav_left input {
+      padding: 4px 9px;
+      outline: none;
+      width: 400px;
+}
+
+.nav_btn {
+      padding: 4px 22px;
+      text-align: center;
+      width: 150px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      gap: 30px;
+      color: white;
+      background:
+            #0061DF;
+      border-color:
+            #0061DF;
+}
+
+.nav_right {
+      display: flex;
+      align-items: center;
+      gap: 30px;
+}
+
+
+
+.OneSection {
+      padding: 110px;
+      background-image: url(../images/unsplash_2gDwlIim3Uw.png);
+      background-size: cover;
+      height: 440px;
+      margin-top: 12px;
+      text-align: center;
+      color: white;
+}
+
+
+.OneSection .TextImg {
+      text-align: center;
+}
+
+.TextImg {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 9px;
+      gap: 17px;
+}
+
+.TextImg .CartImg {
+      display: flex;
+      flex-direction: column;
+}
+
+
+.TextBtn {
+      padding: 7px 25px;
+      background: transparent;
+      border-color: white;
+      color: white;
+      border-radius: 3px;
+}
+
+
+.TwoSection {
+      margin-top: 96px;
+      text-align: center;
+}
+
+
+.TwoText h1 {
+      color: #0D263B;
+      font-size: 28px;
+
+}
+
+
+.TwoText p {
+      color: #696969;
+      font-size: 16px;
+}
+
+
+.ThereSection {
+      margin-top: 86px;
+      text-align: center;
+      background-color: #F5F7FC;
+      padding: 20px 3px;
+}
+
+.ThereText h1 {
+      color: #0D263B;
+      font-size: 28px;
+
+}
+
+
+.ThereText p {
+      color: #696969;
+      font-size: 16px;
+}
+
+.ThereSection .ThereCard {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+}
+
+.ThereCard .Cart {
+      width: 240px;
+}
+
+
+.Cart h3 {
+      font-size: 16px;
+      margin-bottom: 12px;
+      margin-top: 12px;
+}
+
+
+
+.FourSection {
+      margin-top: 80px;
+      text-align: center;
+}
+
+.FourText h1 {
+      color: #0D263B;
+      font-size: 28px;
+}
+
+.FourText p {
+      color: #696969;
+      font-size: 16px;
+}
+
+
+.FourCard {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+}
+
+
+.FourCard .Card {
+      background-image: url(../images/unsplash_2gDwlIim3Uw.png);
+      background-size: cover;
+      width: 240px;
+      height: 270px;
+      text-align: center;
+      margin-bottom: 20px;
+}
+
+
+.FourCard .Card1 {
+      background-image: url(../images/unsplash_5q1KnUjtjaM.png);
+      background-size: cover;
+      width: 240px;
+      height: 270px;
+      text-align: center;
+      margin-bottom: 20px;
+}
+
+
+
+.FourCard .Card2 {
+      background-image: url(../images/unsplash_ZtC4_rPCRXA.png);
+      background-size: cover;
+      width: 240px;
+      height: 270px;
+      text-align: center;
+      margin-bottom: 20px;
+}
+
+
+
+.FourCard .Card3 {
+      background-image: url(../images/unsplash_b_79nOqf95I.png);
+      background-size: cover;
+      width: 240px;
+      height: 270px;
+      text-align: center;
+      margin-bottom: 20px;
+}
+
+
+
+.FourCard img {
+      margin-bottom: 20px;
+      margin-top: 60px;
+}
+
+.FourCard h4 {
+      color: white;
+}
+
+
+
+.FiveSection {
+      background-image: url(../images/unsplash_g39p1kDjvSY\ \(1\).png);
+      background-repeat: no-repeat;
+      margin-top: 70px;
+      height: 570px;
+      text-align: center;
+      padding-top: 140px;
+      background-position: center;
+}
+
+
+.FiveText {
+      width: 600px;
+      transform: translateX(300px);
+      color: white;
+}
+
+
+.Five_btn {
+      width: 160px;
+      height: 40px;
+      background: #0061DF;
+      color: white;
+      border-color: #0061DF;
+}
+
+
+
+
+
+.SixSection {
+      margin-top: 96px;
+
+}
+
+
+.SixSection .SixText h1 {
+      color: #0D263B;
+      font-size: 28px;
+}
+
+.SixSection .SixText p {
+      color: #696969;
+      font-size: 16px;
+}
+
+
+.SixText {
+      text-align: center;
+}
+
+
+.SixCard {
+      margin-top: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+}
+
+.SixCard .Carts {
+      width: 300px;
+      text-align: center;
+      -webkit-box-shadow: -14px -2px 48px -2px rgba(82, 72, 82, 0.36);
+      -moz-box-shadow: -14px -2px 48px -2px rgba(82, 72, 82, 0.36);
+      box-shadow: -14px -2px 48px -2px rgba(82, 72, 82, 0.36);
+      padding: 12px 19px;
+}
+
+
+
+
+.Carts .img {
+      transform: translateY(110px);
+}
+
+.Carts img{
+      margin-bottom: 14px;
+}
+
+
+.Carts .img h5{
+      font-size: 13px;
+}
