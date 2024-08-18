@@ -1,0 +1,60 @@
+
+.resultat {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-bottom: 20px;
+}
+
+.titlee:hover {
+color: rgba(255, 0, 0, 0.652);
+cursor: pointer;
+}
+.tentation {
+        display: flex;
+        align-items: center;
+        gap: 70px;
+}
+.reghtttt {
+        -webkit-box-shadow: -2px 1px 15px 2px rgba(0,0,0,0.51);
+-moz-box-shadow: -2px 1px 15px 2px rgba(0,0,0,0.51);
+box-shadow: -2px 1px 15px 2px rgba(0,0,0,0.51);
+}
+.doll {
+        padding: 0 15px;
+        display: flex;
+        align-items: center;
+        gap: 170px;
+}
+.cards {
+        -webkit-box-shadow: -2px 0px 36px -4px rgba(0,0,0,0.34);
+        -moz-box-shadow: -2px 0px 36px -4px rgba(0,0,0,0.34);
+        box-shadow: -2px 0px 36px -4px rgba(0,0,0,0.34); 
+}
+.pro_content {
+        display: flex;  
+        align-items: center;
+        justify-content: center;
+        gap: 22px;
+        margin-bottom: 50px;
+        
+}
+.btncsa {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+.footer {
+        padding: 20px;
+}
+.btnns:hover{
+        cursor: pointer;
+        color: chocolate;
+        background-color: black;
+} 
+.contenttcha {
+        padding-top: 50px;
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+}
