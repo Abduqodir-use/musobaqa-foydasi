@@ -1,0 +1,247 @@
+/* style codlari chaqirib ketish uchun boshlandi */
+
+h1.large {
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 24px;
+        color: #fff;
+}
+
+p.description {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        color: #fff;
+}
+
+h2.small {
+        font-size: 36px;
+        font-weight: 600;
+        line-height: 44px;
+}
+
+.description1 {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        color: #0D263B;
+}
+
+/* style codlari chaqirib ketish uchun tugadi */
+
+
+/* 1-section styles */
+.ibrohimjon {
+        margin: 44px 0 34px 0;
+}
+
+.ibrohimjon .container__Ibrohimjon {
+        max-width: 1376px;
+        margin: 0 auto;
+        padding: 0 100px;
+        display: grid;
+        gap: 20px;
+        grid-template-areas:
+                'a a b d'
+                'a a c e';
+}
+
+.Ibrohimjon__images1 {
+        grid-area: a;
+}
+
+.Ibrohimjon__images2 {
+        grid-area: b;
+}
+
+.Ibrohimjon__images3 {
+        grid-area: c;
+}
+
+.Ibrohimjon__images4 {
+        grid-area: d;
+}
+
+.Ibrohimjon__images5 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        background: url(../images/ib5.png);
+        grid-area: e;
+}
+
+/* 1-section styles tamom */
+
+/* ota-ona boshlanish */
+
+.ota-ona .container__Ibrohimjon {
+        max-width: 1376px;
+        margin: 0 auto;
+        padding: 0 100px;
+        display: flex;
+        justify-content: space-between;
+        gap: 11px;
+}
+
+.container__Ibrohimjon .ibrohimjon__left {
+        max-width: 880px;
+
+}
+
+.container__Ibrohimjon .ibrohimjon__right {
+        max-width: 280px;
+        padding: 14px 15px 34px 33px;
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        box-shadow: 1px 1px 1px 1px #0D263B;
+}
+
+.divda-hullas {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 8px;
+}
+
+.divda-hullas .ptext {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+}
+
+.ibrohimjon__right input {
+        padding-bottom: 4px;
+        border: none;
+        outline: none;
+        border-bottom: 1px solid #0D263B;
+}
+
+.massageee {
+        border-bottom: 2px solid #0D263B;
+}
+
+.remember {
+        padding-left: 20px;
+        position: relative;
+        display: flex;
+        align-items: flex-start;
+        gap: 8px;
+}
+
+.remember input {
+        position: absolute;
+        top: 6px;
+        left: 0;
+}
+
+.btn20491909552910 {
+        padding: 12px 40px;
+        border: none;
+        color: #fff;
+        border-radius: 2px;
+        background-color: #0061DF;
+}
+
+.ibrohimjon__leftt {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+}
+
+.navbarchalik {
+        display: flex;
+        justify-content: center;
+        gap: 266px;
+        align-items: center;
+}
+
+.navbarchalik h1 {
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 32px;
+        letter-spacing: -0.02em;
+}
+
+.ibrohimjon__rightt {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+}
+
+.iconsss {
+        display: flex;
+        gap: 20px;
+        align-items: center;
+}
+
+.iconnnnn {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #00000018;
+        padding: 11px;
+        box-shadow: #000;
+        border: 1px solid transparent;
+        border-radius: 50px;
+
+}
+
+.iconchalar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+}
+
+.iconchalar__left {
+        display: flex;
+        align-items: center;
+        gap: 24px;
+}
+
+.iconlarni {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+}
+
+.contentchalar__right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+}
+
+.content__content {
+        display: flex;
+}
+
+.nimadur__kimdur {
+        margin-bottom: 48px;
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+}
+
+.Ibrohimjon__axiyri {
+        display: flex;
+        gap: 48px;
+        align-items: center;
+}
+
+.axiyri__top {
+        display: flex;
+        gap: 24px;
+        align-items: flex-end;
+}
+
+.axiyri__center {
+        display: flex;
+        align-items: flex-start;
+        gap: 1px;
+}
+.mamama {
+        display: flex;
+        align-items: center;
+        gap: 50px;
+}
